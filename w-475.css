@@ -1,0 +1,19 @@
+/* @import url(https://fonts.googleapis.com/css?family=Lato:400,700); */
+
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@media (max-width:475px) {
+  .text p {
+    font-size: 14px;
+    color: white;
+    margin-bottom: 2em;
+    line-height: 3px;
+  }
+  .height{
+    height:4000px;
+  }
+
+.text-hover {
+  padding: 55px;
+}
+
+}

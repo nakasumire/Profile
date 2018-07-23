@@ -1,0 +1,131 @@
+/* @import url(https://fonts.googleapis.com/css?family=Lato:400,700); */
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+body {
+  min-height: 75rem;
+  /* Can be removed; just added for demo purposes */
+  font-family: Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  background-color: #000000;
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar {
+  margin-bottom: 0;
+  display:block;
+}
+
+.socialBtn{
+  text-align: center;
+}
+
+#gradient{
+  width: 100%;
+  height: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+section {
+  height: auto;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.text {
+  padding: 50px 0;
+}
+
+.text p {
+  font-size: 18px;
+  color: white;
+  margin-bottom: 2em;
+  line-height: 3px;
+}
+
+.album {
+  height: 1600px;
+}
+
+.text-hover {
+padding: auto;
+}
+.text-hover h3{
+  text-align: center;
+  margin:10px;
+  color:black;
+}
+
+.card {
+  width: auto;
+}
+
+.card-text {
+  padding: 30px 0;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+  padding-top: 30px;
+  color: white;
+}
+
+.album {
+  min-height: 50rem;
+  /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.row {
+  height: 1200px;
+  padding-bottom: 80px;
+}
+
+.center {
+  text-align: center;
+}
+
+.card {
+  float: left;
+  width: 33.333%;
+  padding: .75rem;
+  margin-bottom: 2rem;
+  border: 0;
+}
+
+.card>img {
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 85%;
+}
+
+.text-contents {
+  display: none;
+}
+
+.text-active {
+  display: block;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
